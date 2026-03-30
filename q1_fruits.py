@@ -1,4 +1,4 @@
-fruits = []
+#fruits = []
 for i in range(7):
     fruit = input("Enter fruit: ")
     fruits.append(fruit)
